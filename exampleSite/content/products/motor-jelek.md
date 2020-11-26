@@ -15,5 +15,4 @@ variants = []
 Motor jelekkk
 
 * 1
-* 2
-* ![](/uploads/fjimg_20191221_104723_1590363216544.jpg)
+* 2![](/uploads/mobil-icon1.jpg)
