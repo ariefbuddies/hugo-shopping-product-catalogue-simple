@@ -49,5 +49,3 @@ fields:
   - type: text
     name: inStock
     label: inStock
-pages:
-- exampleSite/content/products/motor-jelek.md
