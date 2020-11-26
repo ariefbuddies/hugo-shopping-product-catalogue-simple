@@ -6,7 +6,7 @@ date = 2020-11-25T17:00:00Z
 images = ["/uploads/fjimg_20191221_104723_1590363216544.jpg"]
 inStock = true
 tags = ["Lampu Putih"]
-thumbnailImage = ""
+thumbnailImage = "/uploads/mobil-icon1.jpg"
 title = "Motor jelek"
 variants = []
 [options]
