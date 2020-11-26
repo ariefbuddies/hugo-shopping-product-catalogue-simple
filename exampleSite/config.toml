@@ -1,7 +1,7 @@
 baseURL = "https://elastic-pare-a6a5db.netlify.app"
 languageCode = "en-us"
-title = "Awesome Lighting Inc."
+title = "Pabrik Lampu"
 theme = "hugo-shopping-product-catalogue-simple"
 themesDir = "../.."
 [Params]
-description = ""
+description = "Pabrik lampu keren"
