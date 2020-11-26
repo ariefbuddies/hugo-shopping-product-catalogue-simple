@@ -18,18 +18,7 @@
   "options": {
   },
   "variants": [
-    {
-      "optionCombination": "",
-      "comparePrice": "",
-      "actualPrice": "",
-      "inStock": ""
-    },
-    {
-      "optionCombination": "",
-      "comparePrice": "",
-      "actualPrice": "",
-      "inStock": ""
-    }
+
   ]
 }
 Oda is a floor lamp made from a handblown tinted glass barrel balancing on a simple and elegant metal structure.
