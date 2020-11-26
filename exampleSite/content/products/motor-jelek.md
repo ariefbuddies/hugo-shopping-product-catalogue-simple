@@ -1,11 +1,11 @@
 +++
 actualPrice = "70000"
-categories = []
+categories = ["Lampu Putih"]
 comparePrice = "50000"
 date = 2020-11-25T17:00:00Z
 images = ["/uploads/fjimg_20191221_104723_1590363216544.jpg"]
 inStock = true
-tags = []
+tags = ["Lampu Putih"]
 thumbnailImage = ""
 title = "Motor jelek"
 variants = []
